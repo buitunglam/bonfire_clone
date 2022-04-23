@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&family=Rowdies:wght@300;400;700&display=swap');
+
+$gap: 10px;
+
+// height: appBar+boardBar+boardContent = 100vh;
+$navBar-app-height: 5vh;
+$navBar-board-height: 6vh;
+$board-content-height: 89vh;
+//colors
+$board-bg-color: #0079bf;
+$app-main-text-color: #333;
+$input-border-color: #0079bf;
+$column-bg-color: #ebecf0;
+$alert-danger:#ee5253;
+// screen
+$screen-lg: 1201px;
+$screen-md: 992px;
+$screen-sm: 768px;
+$screen-phone: 480px;
+$screen-ip6-down: '(max-width: 375px)'; 
+
+$column-border-radius: 5px;
